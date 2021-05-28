@@ -19,7 +19,7 @@ spec:
        version: v1
     spec:
       containers:
-      - image: 404106681973.dkr.ecr.us-east-2.amazonaws.com/spring:v2     
+      - image: 404106681973.dkr.ecr.us-east-2.amazonaws.com/spring:tagvar     
 
         name: spring
         ports:
